@@ -1,0 +1,40 @@
+{
+  "label1": {
+    "type": "label",
+    "value": "Time Settings"
+  },
+  "showAMPM": {
+    "text": "Show AM/PM",
+    "type": "checkbox",
+    "value": false
+  },
+  "hourOnly": {
+    "text": "Flat Hours Only",
+    "type": "checkbox",
+    "value": false
+  },
+  "label2": {
+    "type": "label",
+    "value": "General Settings"
+  },
+  "bgColor": {
+    "text": "Background Color",
+    "type": "color",
+    "value": "#111111"
+  },
+  "clockSize": {
+    "text": "Clock Size",
+    "type": "dropdown",
+    "items": ["50%", "80%", "100%", "120%", "150%", "200%"],
+    "value": 2
+  },
+  "alwaysOClock": {
+    "text": "Always display O'CLOCK",
+    "type": "checkbox",
+    "value": false
+  },
+  "license": {
+    "type": "label",
+    "value": "Licensed under CC BY-NC 4.0"
+  }
+}

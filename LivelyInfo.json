@@ -1,0 +1,15 @@
+{
+  "AppVersion": "0.9.6.0",
+  "Title": "Text-Based Clock",
+  "Thumbnail": "lively_t.jpg",
+  "Preview": "lively_p.gif",
+  "Desc": "A customizable Text-Based Time Indicator.",
+  "Author": "Eitan Biletski",
+  "License": "CC BY-NC 4.0 - see license.txt",
+  "Contact": "https://codepen.io/Eitan-Biletski/pen/EayZmdN",
+  "Type": 1,
+  "FileName": "index.html",
+  "Path": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
